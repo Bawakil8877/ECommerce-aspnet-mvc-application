@@ -64,7 +64,7 @@ Installation Guide
 
 
 
-git clone https://github.com/YourGitHubUsername/ECommerceApplication.git
+git clone https://github.com/Bawakil8877/ECommerce-aspnet-mvc-application.git
 
 2. Open the project in Visual Studio.
 
